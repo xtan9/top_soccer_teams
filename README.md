@@ -1,4 +1,4 @@
-# Top Soccer Teams Application Design Document
+# Top Soccer Teams Application
 
 ## **Overview**
 
